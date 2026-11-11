@@ -1,1 +1,37 @@
-﻿[пипа]
+[
+  {
+    "title": "Мод убран с сервера: DezzyCode-WorldControl",
+    "date": "2026-11-11",
+    "text": "Мод DezzyCode-WorldControl больше не используется на сервере и будет убран при следующей синхронизации."
+  },
+  {
+    "title": "Мод убран с сервера: JereKuusela-Server_devcommands",
+    "date": "2026-11-11",
+    "text": "Мод JereKuusela-Server_devcommands больше не используется на сервере и будет убран при следующей синхронизации."
+  },
+  {
+    "title": "Мод убран с сервера: ValheimModding-Jotunn",
+    "date": "2026-11-11",
+    "text": "Мод ValheimModding-Jotunn больше не используется на сервере и будет убран при следующей синхронизации."
+  },
+  {
+    "title": "Мод убран с сервера: MidnightMods-ValheimEnforcer",
+    "date": "2026-11-11",
+    "text": "Мод MidnightMods-ValheimEnforcer больше не используется на сервере и будет убран при следующей синхронизации."
+  },
+  {
+    "title": "Мод убран с сервера: ValheimModding-YamlDotNet",
+    "date": "2026-11-11",
+    "text": "Мод ValheimModding-YamlDotNet больше не используется на сервере и будет убран при следующей синхронизации."
+  },
+  {
+    "title": "Мод убран с сервера: QoLTeam-Valheim_Admin_Tool",
+    "date": "2026-11-11",
+    "text": "Мод QoLTeam-Valheim_Admin_Tool больше не используется на сервере и будет убран при следующей синхронизации."
+  },
+  {
+    "title": "Мод убран с сервера: sighsorry-YouAreNotWorthy",
+    "date": "2026-11-11",
+    "text": "Мод sighsorry-YouAreNotWorthy больше не используется на сервере и будет убран при следующей синхронизации."
+  }
+]
