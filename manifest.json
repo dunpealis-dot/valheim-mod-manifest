@@ -1,0 +1,65 @@
+{
+  "mods": [
+    {
+      "id": "DezzyCode-WorldControl",
+      "name": "WorldControl",
+      "version": "3.0.5",
+      "url": "https://raw.githubusercontent.com/dunpealis-dot/valheim-mod-manifest/main/plugins/DezzyCode-WorldControl.zip",
+      "hash": "ada403829fd02cf6b5761c6f9dc6e171af217a293e07fbde72e2575af6d1004f",
+      "required": false,
+      "description": "One admin window for time, weather, wind, events, teleports, announcements, terrain tools and player stats. Server synced, the same for every player, English and German."
+    },
+    {
+      "id": "JereKuusela-Server_devcommands",
+      "name": "Server_devcommands",
+      "version": "1.116.0",
+      "url": "https://raw.githubusercontent.com/dunpealis-dot/valheim-mod-manifest/main/plugins/JereKuusela-Server_devcommands.zip",
+      "hash": "d8c5d6c3e595799caa44761a6c93d068986f601875baa79106de13ec749e4737",
+      "required": false,
+      "description": "Enables devcommands and utilities for server admins."
+    },
+    {
+      "id": "MidnightMods-ValheimEnforcer",
+      "name": "MidnightMods-ValheimEnforcer",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/dunpealis-dot/valheim-mod-manifest/main/plugins/MidnightMods-ValheimEnforcer.zip",
+      "hash": "0fb71bcf0090d0f0023ae98b05e9c22253403ab44fecdb65024f8444438c5760",
+      "required": false
+    },
+    {
+      "id": "QoLTeam-Valheim_Admin_Tool",
+      "name": "Valheim_Admin_Tool",
+      "version": "0.5.8",
+      "url": "https://raw.githubusercontent.com/dunpealis-dot/valheim-mod-manifest/main/plugins/QoLTeam-Valheim_Admin_Tool.zip",
+      "hash": "549e5627cab1d214162756accf9597a8795f9edcdacb3b0c09625f030a8379fe",
+      "required": false,
+      "description": "A management mod to play Valheim the way you want."
+    },
+    {
+      "id": "sighsorry-YouAreNotWorthy",
+      "name": "YouAreNotWorthy",
+      "version": "1.1.0",
+      "url": "https://raw.githubusercontent.com/dunpealis-dot/valheim-mod-manifest/main/plugins/sighsorry-YouAreNotWorthy.zip",
+      "hash": "6272ba2b596130e67ee3cda0879fbe7ed0d57ccd2c1bdbfc478ae1de4764b03c",
+      "required": false,
+      "description": "Personal progression for Valheim multiplayer and co-op. Unlock weapons, armor, food, trader items, doors, boss summons and map icons with personal keys. Control raids and creature spawns by player progress. Includes server sync and custom item tiers."
+    },
+    {
+      "id": "ValheimModding-Jotunn",
+      "name": "ValheimModding-Jotunn",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/dunpealis-dot/valheim-mod-manifest/main/plugins/ValheimModding-Jotunn.zip",
+      "hash": "9dd19019451f556dbfec219d48f66e4eb362c55844c65baf0cbc97bf6060745f",
+      "required": false
+    },
+    {
+      "id": "ValheimModding-YamlDotNet",
+      "name": "YamlDotNet",
+      "version": "16.3.1",
+      "url": "https://raw.githubusercontent.com/dunpealis-dot/valheim-mod-manifest/main/plugins/ValheimModding-YamlDotNet.zip",
+      "hash": "6683be4ec5db97f9b24a071f3bbbcf979339113fd2f2d259b80388e3244fbd0f",
+      "required": false,
+      "description": "Shared version 16.3.0 of YamlDotNet from Antoine Aubry and contributors, net47 package for use in Valheim mods. Maintained by the ValheimModding team."
+    }
+  ]
+}
