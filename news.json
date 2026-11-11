@@ -1,8 +1,13 @@
 [
   {
+    "title": "Новый мод: DezzyCode-WorldControl1 v3.0.5",
+    "date": "2026-11-11",
+    "text": "Добавлен мод DezzyCode-WorldControl1 v3.0.5. Нажми «СИНХРОНИЗИРОВАТЬ ИГРУ», чтобы получить его автоматически."
+  },
+  {
     "title": "Мод убран с сервера: DezzyCode-WorldControl",
     "date": "2026-11-11",
-    "text": "Мод DezzyCode-WorldControl больше не используется на сервере и будет убран при следующей синхронизации. пипппппппппваааааааааааа"
+    "text": "Мод DezzyCode-WorldControl больше не используется на сервере и будет убран при следующей синхронизации."
   },
   {
     "title": "Мод убран с сервера: JereKuusela-Server_devcommands",
